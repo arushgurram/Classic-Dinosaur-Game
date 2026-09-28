@@ -9,3 +9,7 @@ A Python recreation of the iconic Google Chrome offline T-Rex runner game built 
 - **Sprite Animations:** Features animated running and jumping mechanics for the dinosaur, along with wing-flapping animations for birds.
 - **PyInstaller Compatibility:** Includes custom image loading helpers (`resource_path`) for seamless bundling into standalone `.exe` executables.
 
+## Requirements
+- **Python 3.x**
+- **pygame library**
+- **dino-assets**
